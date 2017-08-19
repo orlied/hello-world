@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Orlie L. Oliva?</h2>
+
+<p id="demo">HTML</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "JavaScript!"'>Click Me!</button>
+
+</body>
+</html>
